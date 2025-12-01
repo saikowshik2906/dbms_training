@@ -11,4 +11,4 @@ git push origin main
 git status
 git add .
 git commit -m "message or title"
-git push origin master
+git push origin main
